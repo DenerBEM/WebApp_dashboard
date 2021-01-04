@@ -2,32 +2,32 @@
 **Description:** A data dashboard showing the Top 10 World Economies Land Use.
 
 ### :package: Libraries used:
-`alembic==1.4.3 <br>
-click==7.1.2
-cycler==0.10.0
-Flask==1.1.2
-Flask-Migrate==2.5.3
-Flask-Script==2.0.6
-Flask-SQLAlchemy==2.4.4
-gunicorn==20.0.4
-itsdangerous==1.1.0
-Jinja2==2.11.2
-kiwisolver==1.3.1
-Mako==1.1.3
-MarkupSafe==1.1.1
-matplotlib==3.3.3
-numpy==1.19.3
-pandas==1.1.5
-Pillow==8.0.1
-plotly==4.14.1
-pyparsing==2.4.7
-python-dateutil==2.8.1
-python-editor==1.0.4
-pytz==2020.5
-retrying==1.3.3
-six==1.15.0
-SQLAlchemy==1.3.22
-Werkzeug==1.0.1`
+`alembic==1.4.3` <br>
+`click==7.1.2` <br>
+`cycler==0.10.0`<br>
+`Flask==1.1.2`<br>
+`Flask-Migrate==2.5.3`<br>
+`Flask-Script==2.0.6`<br>
+`Flask-SQLAlchemy==2.4.4`<br>
+`gunicorn==20.0.4`<br>
+`itsdangerous==1.1.0`<br>
+`Jinja2==2.11.2`<br>
+`kiwisolver==1.3.1`<br>
+`Mako==1.1.3`<br>
+`MarkupSafe==1.1.1`<br>
+`matplotlib==3.3.3`<br>
+`numpy==1.19.3`<br>
+`pandas==1.1.5`<br>
+`Pillow==8.0.1`<br>
+`plotly==4.14.1`<br>
+`pyparsing==2.4.7`<br>
+`python-dateutil==2.8.1`<br>
+`python-editor==1.0.4`<br>
+`pytz==2020.5`<br>
+`retrying==1.3.3`<br>
+`six==1.15.0`<br>
+`SQLAlchemy==1.3.22`<br>
+`Werkzeug==1.0.1`
 
 ### :muscle: Motivation for the project:
 My motivation for this project was to gain more experience in analysing and manipulating dataset, during a project we get a lot of knowledge, because we face our problems and difficulties, forcing us to many times search on google to find the correct piece of code. I can say that after had finished this project I'm more close to become a data scientist than before, and that's why I decided to do this project.
