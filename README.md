@@ -1,5 +1,9 @@
 # Web App - Data Dashboard
-**Description:** A Web Application data dashboard showing the Top 10 World Economies Land Use.
+**Description:** A Web Application data dashboard showing the Top 10 World Economies Land Use, deployed with Heroku and graphs made with plotly.
+
+### Link to the WebApp:
+https://dener-data-dashboard.herokuapp.com/
+
 
 ### :package: Libraries used:
 `alembic==1.4.3` <br>
