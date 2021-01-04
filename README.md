@@ -2,7 +2,7 @@
 **Description:** A data dashboard showing the Top 10 World Economies Land Use.
 
 ### :package: Libraries used:
-`alembic==1.4.3
+`alembic==1.4.3 <br>
 click==7.1.2
 cycler==0.10.0
 Flask==1.1.2
