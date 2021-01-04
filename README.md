@@ -1,5 +1,5 @@
 # Web App - Data Dashboard
-**Description:** A data dashboard showing the Top 10 World Economies Land Use.
+**Description:** A Web Application data dashboard showing the Top 10 World Economies Land Use.
 
 ### :package: Libraries used:
 `alembic==1.4.3` <br>
@@ -30,7 +30,7 @@
 `Werkzeug==1.0.1`
 
 ### :muscle: Motivation for the project:
-My motivation for this project was to gain more experience in analysing and manipulating dataset, during a project we get a lot of knowledge, because we face our problems and difficulties, forcing us to many times search on google to find the correct piece of code. I can say that after had finished this project I'm more close to become a data scientist than before, and that's why I decided to do this project.
+My motivation for this project was to gain more experience in software engineering and write a modular and clean code. I tried to apply the good practices in my codes, writing comments and docstrings and needed. I already was familiarized with the wrangle part of the code, but the web development, the python modules, and mainly the deployement part, were the first time for me.
 
 
 
