@@ -33,35 +33,27 @@
 My motivation for this project was to gain more experience in software engineering and write a modular and clean code. I tried to apply the good practices in my codes, writing comments and docstrings and needed. I already was familiarized with the wrangle part of the code, but the web development, the python modules, and mainly the deployement part, were the first time for me.
 
 
-
 ### :open_file_folder: Files:
 * License:<br>
-I'm using MIT license
+MIT license
 
-* Jupyter Notebook:<br>
-Project-CRISP.ipynb
+* Dashboard.py:<br>
+The file needed to run the app
+
+* wrangling_scripts:<br>
+Contains the wrangle_data.py, where I did some transformation in the data
+
+* data:<br>
+Contains the files in csv format
+
+* app:<br>
+Contains the templates folder, where there's the html file. The static/img folder, where there are images used in the html file
 
 * README.md:<br>
 It's where you are. It contains things about the project.
-* Dataset:<br>
-You can download the dataset in this link: https://insights.stackoverflow.com/survey <br>
-*You should download the year 2017* 
 
-### :bar_chart: Results:
-
-I had to answer this 5 questions:
-
-* Better countries have better salaries ?
-* Which gender has the highest salary ?
-* Do those who work from home are those who Program as hobby as well ?
-* Do the larger company have more employees who work from home ?
-* What race has the highest salary ?
-
-Although I need more knowledge, experience and probably hypothesis tests to answer these questions, I really dive deep into the exploratory data analysis, and I used most of times descriptive statistics to answer these questions.
-The answers you can find in the commentaries in jupyter notebook, and in **my post on Medium**:
-https://denercel.medium.com/5-interesting-questions-about-job-and-salary-1dee37b72e5c
 
 ### :boy: Author:
-My name is Dener, I'm 25 years old, and I've studied Data Science since 2019, and I've been putting my knowledge in practice by doing some personal projects and publish them on GitHub.
+My name is Dener, I'm 25 years old, and I've studied Data Science since December 2019, and I've been putting my knowledge in practice by doing some personal projects and publish them on GitHub.
 I hope you enjoy reading my codes.
 
